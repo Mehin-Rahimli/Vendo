@@ -1,0 +1,15 @@
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\bin\Debug\net8.0\Vendo.Domain.deps.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\bin\Debug\net8.0\Vendo.Domain.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\bin\Debug\net8.0\Vendo.Domain.pdb
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.csproj.AssemblyReference.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.AssemblyInfoInputs.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.AssemblyInfo.cs
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.sourcelink.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\refint\Vendo.Domain.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.pdb
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\ref\Vendo.Domain.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\bin\Debug\net8.0\Vendo.Domain.runtimeconfig.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Core\Vendo.Domain\obj\Debug\net8.0\Vendo.Domain.genruntimeconfig.cache

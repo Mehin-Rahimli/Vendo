@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vendo.API.props" />
+</Project>

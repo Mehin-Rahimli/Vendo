@@ -1,0 +1,15 @@
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\bin\Debug\net8.0\Vendo.Infrastructure.deps.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\bin\Debug\net8.0\Vendo.Infrastructure.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\bin\Debug\net8.0\Vendo.Infrastructure.pdb
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.AssemblyInfo.cs
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.sourcelink.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\refint\Vendo.Infrastructure.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.pdb
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\ref\Vendo.Infrastructure.dll
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\bin\Debug\net8.0\Vendo.Infrastructure.runtimeconfig.json
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.genruntimeconfig.cache
+C:\Users\Kubra\Source\Repos\Vendo\src\Infrastructure\Vendo.Infrastructure\obj\Debug\net8.0\Vendo.Infrastructure.csproj.AssemblyReference.cache

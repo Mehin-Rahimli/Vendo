@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2CZDNnDcbshex38DxdxWTQcf2LfYcSxBlOYSVTSr2Yw=",
+  "Source": "Vendo.API",
+  "BasePath": "_content/Vendo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

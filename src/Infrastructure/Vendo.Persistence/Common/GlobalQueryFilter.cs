@@ -1,9 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Azure;
+using Microsoft.EntityFrameworkCore;
 using Vendo.Domain.Entities;
 
 namespace Vendo.Persistence.Common
@@ -15,10 +11,18 @@ namespace Vendo.Persistence.Common
             modelBuilder.Entity<T>().HasQueryFilter(c => c.IsDeleted == false);
         }
 
-        public static void ApplyQueryFilters(this ModelBuilder modelBuilder)
+        
+             public static void ApplyQueryFilters(this ModelBuilder modelBuilder)
         {
-            
+            modelBuilder.ApplyFilter<Category>();
+            modelBuilder.ApplyFilter<Product>();
+            modelBuilder.ApplyFilter<Size>();
+            modelBuilder.ApplyFilter<Brand>();
+            modelBuilder.ApplyFilter<Color>();
+            modelBuilder.ApplyFilter<Category>();
 
         }
+
     }
-}
+    }
+
