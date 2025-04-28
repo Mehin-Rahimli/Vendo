@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qHqpUZewR2E=",
+  "dgSpecHash": "aNUdhJkfqbo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kubra\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Kubra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

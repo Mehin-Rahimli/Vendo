@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj": {}
+    "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj": {
+    "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj",
         "projectName": "Vendo.Infrastructure",
-        "projectPath": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\Vendo.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kubra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

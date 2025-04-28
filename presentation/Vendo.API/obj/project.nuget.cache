@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gTt1PUgNyA=",
+  "dgSpecHash": "5h8gph1IcOs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\presentation\\Vendo.API\\Vendo.API.csproj",
+  "projectFilePath": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Vendo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kubra\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Kubra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

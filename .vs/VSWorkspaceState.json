@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Core",
+    "\\src\\Core\\Vendo.Application",
+    "\\src\\Core\\Vendo.Application\\ServiceRegistration",
+    "\\src\\Core\\Vendo.Application\\Validators",
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\Vendo.Persistence",
+    "\\src\\Infrastructure\\Vendo.Persistence\\Configurations",
+    "\\src\\Infrastructure\\Vendo.Persistence\\Implementations"
   ],
+  "SelectedNode": "\\presentation\\Vendo.API\\Vendo.API.csproj",
   "PreviewInSolutionExplorer": false
 }

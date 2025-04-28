@@ -3,228 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Kubra\\source\\repos\\Vendo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\migrations\\20250428093117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\migrations\\20250428093117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|c:\\users\\kubra\\source\\repos\\vendo\\presentation\\vendo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|solutionrelative:presentation\\vendo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|c:\\users\\kubra\\source\\repos\\vendo\\presentation\\vendo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|solutionrelative:presentation\\vendo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|c:\\users\\kubra\\source\\repos\\vendo\\presentation\\vendo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|solutionrelative:presentation\\vendo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\repostories\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\repostories\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\repostories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\repostories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\repostories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\repostories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|c:\\users\\kubra\\source\\repos\\vendo\\presentation\\vendo.api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|solutionrelative:presentation\\vendo.api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|c:\\users\\kubra\\source\\repos\\vendo\\presentation\\vendo.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC418016-635E-4853-817B-91F09F8E5C03}|presentation\\Vendo.API\\Vendo.API.csproj|solutionrelative:presentation\\vendo.api\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\validators\\producvalidator\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\validators\\producvalidator\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\validators\\producvalidator\\updateproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\validators\\producvalidator\\updateproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\mappingprofiles\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\mappingprofiles\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\common\\globalqueryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\common\\globalqueryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\repostories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\repostories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\implementations\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\implementations\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\services\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\services\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\products\\productitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\products\\productitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\brand\\updatebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\brand\\updatebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\brand\\getbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\brand\\getbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\brand\\branditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\brand\\branditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\brand\\createbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\brand\\createbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\services\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\services\\isizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\services\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\services\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\repositories\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\repositories\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\repositories\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\repositories\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\abstractions\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\abstractions\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\base\\basenameableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\base\\basenameableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF52C9E-BC6F-49EF-BF21-909818A21363}|src\\Core\\Vendo.Domain\\Vendo.Domain.csproj|solutionrelative:src\\core\\vendo.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\core\\vendo.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69EB45D2-E43E-4BA7-9B6C-F84C22DB304E}|src\\Core\\Vendo.Application\\Vendo.Application.csproj|solutionrelative:src\\core\\vendo.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\appuserconfiguraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\appuserconfiguraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\sizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|c:\\users\\kubra\\source\\repos\\vendo\\src\\infrastructure\\vendo.persistence\\common\\globalqueryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0E601-4AB2-44BB-8212-10AC6F898604}|src\\Infrastructure\\Vendo.Persistence\\Vendo.Persistence.csproj|solutionrelative:src\\infrastructure\\vendo.persistence\\common\\globalqueryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -234,738 +70,209 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAnwBAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:39:42.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\BrandRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\BrandRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\BrandRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\BrandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:57:03.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\CategoryRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:58:03.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\SizeRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\SizeRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\SizeRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\SizeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:58:19.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAArwCUAAABKAAAAAAAAAA==",
+              "Title": "20250428093117_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Migrations\\20250428093117_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Migrations\\20250428093117_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Migrations\\20250428093117_InitialCreate.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Migrations\\20250428093117_InitialCreate.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:46:55.647Z",
+              "WhenOpened": "2025-04-28T09:31:18.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Program.cs",
-              "RelativeDocumentMoniker": "presentation\\Vendo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Program.cs",
-              "RelativeToolTip": "presentation\\Vendo.API\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:35:55.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "presentation\\Vendo.API\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\appsettings.Development.json",
               "RelativeToolTip": "presentation\\Vendo.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T20:00:23.028Z",
+              "WhenOpened": "2025-04-28T09:29:02.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ColorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ColorConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ColorConfiguration.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ColorConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ColorConfiguration.cs",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\Vendo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Program.cs",
+              "RelativeToolTip": "presentation\\Vendo.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:08:57.24Z",
+              "WhenOpened": "2025-04-28T09:21:59.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductSize.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\ProductSize.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\ProductSize.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\ProductSize.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\ProductSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:28:32.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Color.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Color.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Color.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:28:13.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Brand.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Brand.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Brand.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:27:57.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:27:47.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductColor.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\ProductColor.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\ProductColor.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\ProductColor.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\ProductColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:28:48.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:08:33.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\AppUser.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:28:51.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Size.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Size.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Size.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Size.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Size.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:28:04.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\MappingProfiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\MappingProfiles\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\MappingProfiles\\ProductProfile.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\MappingProfiles\\ProductProfile.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAArwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:44:26.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BrandsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Controllers\\BrandsController.cs",
-              "RelativeDocumentMoniker": "presentation\\Vendo.API\\Controllers\\BrandsController.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Controllers\\BrandsController.cs",
-              "RelativeToolTip": "presentation\\Vendo.API\\Controllers\\BrandsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAjwCMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:40:23.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SizesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Controllers\\SizesController.cs",
-              "RelativeDocumentMoniker": "presentation\\Vendo.API\\Controllers\\SizesController.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\Controllers\\SizesController.cs",
-              "RelativeToolTip": "presentation\\Vendo.API\\Controllers\\SizesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAnwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:39:12.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UpdateProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\ProducValidator\\UpdateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Validators\\ProducValidator\\UpdateProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\ProducValidator\\UpdateProductDtoValidator.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Validators\\ProducValidator\\UpdateProductDtoValidator.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAArwCAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:36:24.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\ProducValidator\\CreateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Validators\\ProducValidator\\CreateProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\ProducValidator\\CreateProductDtoValidator.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Validators\\ProducValidator\\CreateProductDtoValidator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAnwA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:35:32.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TagProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\MappingProfiles\\TagProfile.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\MappingProfiles\\TagProfile.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\MappingProfiles\\TagProfile.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\MappingProfiles\\TagProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:32:53.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA6wCEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:26:25.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GlobalQueryFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:52:27.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\LoginDtoValidator.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Validators\\LoginDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\LoginDtoValidator.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Validators\\LoginDtoValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:48:50.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\ServiceRegistration\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\ServiceRegistration\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\ServiceRegistration\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\ServiceRegistration\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:47:09.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegisterDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\RegisterDtoValidator.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Validators\\RegisterDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Validators\\RegisterDtoValidator.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Validators\\RegisterDtoValidator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:47:44.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\ProductService.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\ProductService.cs",
-              "ViewState": "AgIAAHUAAAAAb1u7I2gKwBoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:24:13.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\CategoryService.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBgAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:01:51.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Products\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\CreateProductDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Products\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:45:32.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA6wAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:20:46.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\ProductRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Repostories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:58:08.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\BrandService.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\BrandService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\BrandService.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Implementations\\Services\\BrandService.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAnwGYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:33:03.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CategoryItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\CategoryItemDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Categories\\CategoryItemDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\CategoryItemDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Categories\\CategoryItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:43:50.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IBrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\IBrandService.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Services\\IBrandService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\IBrandService.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Services\\IBrandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:31:06.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Services\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Services\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:41:46.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:42:14.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UpdateBrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\UpdateBrandDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Brand\\UpdateBrandDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\UpdateBrandDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Brand\\UpdateBrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:51:45.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "GetBrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\GetBrandDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Brand\\GetBrandDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\Source\\Repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\GetBrandDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Brand\\GetBrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:50:58.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ProductItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\ProductItemDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Products\\ProductItemDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\ProductItemDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Products\\ProductItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:47:37.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Products\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\UpdateProductDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Products\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:47:54.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "GetProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\GetProductDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Products\\GetProductDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Products\\GetProductDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Products\\GetProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:46:27.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GetCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\GetCategoryDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Categories\\GetCategoryDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\GetCategoryDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Categories\\GetCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:51:17.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BrandItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\BrandItemDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Brand\\BrandItemDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\BrandItemDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Brand\\BrandItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:49:04.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CreateBrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\CreateBrandDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Brand\\CreateBrandDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Brand\\CreateBrandDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Brand\\CreateBrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:49:42.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:44:15.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ISizeService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\ISizeService.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Services\\ISizeService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\ISizeService.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Services\\ISizeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:42:01.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\IColorService.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Services\\IColorService.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Services\\IColorService.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Services\\IColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:41:56.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ISizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ISizeRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ISizeRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ISizeRepository.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ISizeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:38:54.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IColorRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IColorRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IColorRepository.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:38:29.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\Generic\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\Generic\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\Generic\\IRepository.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\Generic\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:37:51.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:37:28.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IBrandRepository.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IBrandRepository.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\Abstractions\\Repositories\\IBrandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:37:24.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 5,
               "Title": "BaseNameableEntity.cs",
               "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseNameableEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseNameableEntity.cs",
               "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseNameableEntity.cs",
               "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseNameableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:44:26.766Z",
+              "WhenOpened": "2025-04-28T09:21:41.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\AppUsers\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\AppUsers\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\AppUsers\\RegisterDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\AppUsers\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\Vendo.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:37:31.758Z",
+              "WhenOpened": "2025-04-28T09:21:33.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\AppUsers\\LoginDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Vendo.Application\\DTOs\\AppUsers\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Core\\Vendo.Application\\DTOs\\AppUsers\\LoginDto.cs",
-              "RelativeToolTip": "src\\Core\\Vendo.Application\\DTOs\\AppUsers\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:37:21.721Z",
+              "WhenOpened": "2025-04-28T09:21:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAC8AAAAABd3yL4QVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:21:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\SizeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\SizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\SizeConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\SizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:56.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "presentation\\Vendo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\presentation\\Vendo.API\\appsettings.json",
+              "RelativeToolTip": "presentation\\Vendo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:16:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductSizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductSizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:43.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\ProductColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUserConfiguraton.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\AppUserConfiguraton.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\AppUserConfiguraton.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\AppUserConfiguraton.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\AppUserConfiguraton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:16.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalQueryFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\Vendo\\src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Vendo.Persistence\\Common\\GlobalQueryFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:19:54.101Z",
               "EditorCaption": ""
             }
           ]
