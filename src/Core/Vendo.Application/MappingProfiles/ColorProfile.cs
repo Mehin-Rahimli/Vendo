@@ -16,7 +16,7 @@ namespace Vendo.Application.MappingProfiles
             CreateMap<Color,GetColorDto>().ReverseMap();
             CreateMap<Color, ColorItemDto>();
             CreateMap<CreateColorDto, Color>();
-            CreateMap<UpdateColorDto, Color>();
+            CreateMap<UpdateColorDto, Color>().ForMember(c => c.Id, opt => opt.Ignore());
 
         }
     }

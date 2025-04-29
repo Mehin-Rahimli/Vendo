@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 namespace Vendo.Application.DTOs.AppUsers
 {
     public record RegisterDto(
-        string Name,
-        string Surname,
-        string UserName,
-        string Email,
+        string FullName,
+        string Phone,
         string Password
         );
 }

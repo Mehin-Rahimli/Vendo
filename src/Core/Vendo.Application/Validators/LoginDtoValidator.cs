@@ -12,10 +12,8 @@ namespace Vendo.Application.Validators
     {
         public LoginDtoValidator()
         {
-            RuleFor(x => x.UserNameOrEmail).NotEmpty()
-             .WithMessage("UserName or Email Required")
-           .MaximumLength(256)
-                 .WithMessage("UserName or Email must exist max 256 symbols");
+            RuleFor(x => x.Phone).NotEmpty()
+             .WithMessage("Phone number is required");
 
 
             RuleFor(x => x.Password).NotEmpty()

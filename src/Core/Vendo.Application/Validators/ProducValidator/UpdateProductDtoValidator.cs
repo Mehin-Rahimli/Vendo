@@ -27,12 +27,15 @@ namespace Vendo.Application.FluentValidator.ProducValidator
                 .NotEmpty()
                 .GreaterThanOrEqualTo(PRICE_MIN)
                 .LessThanOrEqualTo(PRICE_MAX);
+
             RuleFor(p => p.CategoryId)
                 .NotEmpty()
                 .Must(categoryId => categoryId > 0);
+
             RuleFor(p => p.BrandId)
            .NotEmpty()
            .Must(brandId => brandId > 0);
+
             RuleForEach(p => p.ColorIds)
                 .NotEmpty()
                 .Must(colorId => colorId > 0)

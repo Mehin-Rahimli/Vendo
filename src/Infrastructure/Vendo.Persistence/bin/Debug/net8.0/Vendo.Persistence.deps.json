@@ -1013,6 +1013,7 @@
           "FluentValidation": "11.11.0",
           "FluentValidation.AspNetCore": "11.3.0",
           "FluentValidation.DependencyInjectionExtensions": "11.11.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.13",
           "Vendo.Domain": "1.0.0"
         },
         "runtime": {
@@ -1025,7 +1026,8 @@
       "Vendo.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.13",
-          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.13"
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.13"
         },
         "runtime": {
           "Vendo.Domain.dll": {

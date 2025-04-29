@@ -9,8 +9,10 @@ namespace Vendo.Domain.Entities
 {
     public class AppUser:IdentityUser
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public bool IsActive { get; set; }
+        public string FullName { get; set; }
+        public string? RefreshToken { get; set; }
+        public DateTime? RefreshToxenExpiredAt { get; set; }
+
+
     }
 }

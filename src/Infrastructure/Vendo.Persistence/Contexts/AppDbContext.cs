@@ -10,7 +10,7 @@ using Vendo.Persistence.Common;
 
 namespace Vendo.Persistence.Contexts
 {
-    internal class AppDbContext:IdentityDbContext<AppUser>
+    public class AppDbContext:IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
@@ -44,7 +44,7 @@ namespace Vendo.Persistence.Contexts
                         break;
                     case EntityState.Added:
                         item.Entity.CreatedAt = DateTime.Now;
-
+                        item.Entity.CreatedBy = "admin";
                         item.Entity.ModifiedAt = DateTime.Now;
                         break;
 
@@ -53,6 +53,5 @@ namespace Vendo.Persistence.Contexts
             }
             return base.SaveChangesAsync(cancellationToken);
         }
-
     }
 }

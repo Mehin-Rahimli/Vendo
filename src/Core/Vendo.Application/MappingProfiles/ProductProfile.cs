@@ -5,16 +5,18 @@ using Vendo.Domain.Entities;
 
 namespace Vendo.Application.MappingProfiles
 {
-    internal class ProductProfile:Profile
+    internal class ProductProfile : Profile
     {
         public ProductProfile()
         {
-            CreateMap<Product, ProductItemDto>();
+            CreateMap<Product, ProductItemDto>().ReverseMap();
+
             CreateMap<Product, GetProductDto>()
                 .ForCtorParam(nameof(GetProductDto.Colors),
                 opt => opt.MapFrom(
                     p => p.ProductColors.Select(pc => new ColorItemDto(pc.ColorId, pc.Color.Name)).ToList())
-                ).ForCtorParam(nameof(GetProductDto.Sizes),
+                )
+               .ForCtorParam(nameof(GetProductDto.Sizes),
                opt => opt.MapFrom(
                    p => p.ProductSizes.Select(ps => new SizeItemDto(ps.SizeId, ps.Size.Name)).ToList())
                );
@@ -41,7 +43,7 @@ namespace Vendo.Application.MappingProfiles
                 p => p.ProductSizes,
                 opt => opt.MapFrom(pDto => pDto.SizeIds.Select(ci => new ProductSize { SizeId = ci }))
                 );
-              
+
         }
     }
 }
