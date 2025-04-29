@@ -34,24 +34,18 @@ namespace Vendo.Application.FluentValidator.ProducValidator
             RuleFor(p => p.CategoryId)
                 .NotEmpty()
                     .Must(id => id > 0);
+
             RuleFor(p => p.BrandId)
                  .NotEmpty()
                      .Must(id => id > 0);
 
             RuleForEach(p => p.ColorIds)
-                .NotEmpty()
-                .Must(id => id > 0);
+                .NotEmpty().Must(colorid => colorid > 0);
+
 
             RuleForEach(p => p.SizeIds)
-                .NotEmpty()
-                .Must(id => id > 0);
+             .NotEmpty().Must(sizeid => sizeid > 0);
 
-       
-
-            RuleFor(p => p.SizeIds)
-                .Must(c => c.Count > 0);
-            RuleFor(p => p.ColorIds)
-              .Must(c => c.Count > 0);
         }
     }
 

@@ -10,6 +10,7 @@ namespace Vendo.API.Controllers
     {
 
         private readonly IProductService _service;
+
         public ProductsController(IProductService service)
         {
             _service = service;

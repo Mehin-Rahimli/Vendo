@@ -18,7 +18,7 @@ namespace Vendo.Domain.Entities
         public int BrandId { get; set; }
         public Brand Brand { get; set; }
 
-        public ICollection<ProductColor>? ProductColors { get; set; }
+        public ICollection<ProductColor> ProductColors { get; set; }
         public ICollection<ProductSize> ProductSizes { get; set; }
 
     }

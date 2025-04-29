@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d2191d0a54acf1627fea13a9d880756bf631b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff12920a2502d4e971dce2790ee7eb97ac9a7e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,5 @@
 ﻿
 
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -47,8 +46,10 @@ namespace Vendo.Persistence.ServiceRegistration
             services.AddScoped<IColorService, ColorService>();
             services.AddScoped<ISizeService, SizeService>();
             services.AddScoped<IBrandService, BrandService>();
-            
             services.AddScoped<IAuthenticationService, AuthenticationService>();
+            services.AddScoped<IProductService, ProductService>();
+
+            services.AddScoped<AppDbContextInitializer>();
             return services;
         }
     }

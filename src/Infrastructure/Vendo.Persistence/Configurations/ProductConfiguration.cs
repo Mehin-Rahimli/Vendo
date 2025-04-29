@@ -25,13 +25,13 @@ namespace Vendo.Persistence.Configurations
                 .IsRequired()
                 .HasColumnType("decimal(6,2)");
             builder
-    .Property(p => p.DiscountPrice)
-    .IsRequired()
-    .HasColumnType("decimal(6,2)");
-            builder
-      .Property(p => p.Discount)
-    .IsRequired()
-    .HasColumnType("decimal(5,2)");
+             .Property(p => p.DiscountPrice)
+             .IsRequired()
+             .HasColumnType("decimal(6,2)");
+                     builder
+               .Property(p => p.Discount)
+             .IsRequired()
+             .HasColumnType("decimal(5,2)");
 
 
 

@@ -21,10 +21,8 @@ namespace Vendo.Persistence.Implementations.Services
             _productRepository = productrepo;
             _mapper = mapper;
             _categoryRepository = categoryRepository;
+            _brandRepository = brandRepository;
         }
-
-
-      
 
         public async Task<IEnumerable<ProductItemDto>> GetAll(int page, int take)
         {

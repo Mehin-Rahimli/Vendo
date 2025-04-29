@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace Vendo.Application.DTOs.AppUsers
 {
-    public record LoginDto(string UserNameOrEmail, string Password);
+    public record LoginDto(string Phone, string Password);
 }

@@ -14,13 +14,15 @@ namespace Vendo.Application.FluentValidator.ColorDtoValidator
         {
             _repository = repository;
 
-            RuleFor(c => c.Name).NotEmpty().WithMessage("Name Required")
-                .MaximumLength(100).WithMessage("Must Contains max 100 symbols")
-                .Matches(@"^[A-Za-z]*$");
+            RuleFor(c => c.Name)
+                .NotEmpty()
+                .MaximumLength(100)
+                .MinimumLength(2)
+                .Matches(@"[A-Za-z\s0-9]*$");
         }
-        public async  Task<bool> CheckName(string name,CancellationToken token)
-        {
-            return !await _repository.AnyAsync(c => c.Name == name);
-        }
+        //public async  Task<bool> CheckName(string name,CancellationToken token)
+        //{
+        //    return !await _repository.AnyAsync(c => c.Name == name);
+        //}
     }
 }

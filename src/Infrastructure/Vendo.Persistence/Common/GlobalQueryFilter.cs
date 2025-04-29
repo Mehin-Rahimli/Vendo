@@ -19,10 +19,12 @@ namespace Vendo.Persistence.Common
             modelBuilder.ApplyFilter<Size>();
             modelBuilder.ApplyFilter<Brand>();
             modelBuilder.ApplyFilter<Color>();
-            modelBuilder.ApplyFilter<Category>();
-
+            modelBuilder.Entity<ProductColor>()
+                .HasQueryFilter(p => !p.Color.IsDeleted); ;
+            modelBuilder.Entity<ProductSize>()
+                .HasQueryFilter(s => !s.Size.IsDeleted); ;
         }
 
     }
-    }
+}
 

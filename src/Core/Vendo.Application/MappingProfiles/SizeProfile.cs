@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using AutoMapper;
+using Vendo.Domain.Entities;
 
 namespace Vendo.Application.MappingProfiles
 {
-    internal class Size:Profile
+    internal class SizeProfile:Profile
     {
-        public Size()
+        public SizeProfile()
         {
 
             CreateMap<Size, GetSizeDto>().ReverseMap();
             CreateMap<Size, SizeItemDto>();
             CreateMap<CreateSizeDto, Size>();
-            CreateMap<UpdateSizeDto, Size>();
+            CreateMap<UpdateSizeDto, Size>().ForMember(s => s.Id, opt => opt.Ignore());
         }
     }
 }
