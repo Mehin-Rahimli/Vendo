@@ -52,6 +52,7 @@ namespace Vendo.Persistence.Contexts
             {
                 FullName = "Admin",
                 PhoneNumber = _configuration["AdminDatas:Phone"]
+
             };
 
             await _userManager.CreateAsync(user, _configuration["AdminDatas:Password"]);

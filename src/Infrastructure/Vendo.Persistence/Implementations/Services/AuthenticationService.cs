@@ -108,7 +108,7 @@ namespace Vendo.Persistence.Implementations.Services
                 throw new Exception(message.ToString());
             }
 
-            await _userManager.AddToRoleAsync(user, UserRoles.Admin.ToString());
+            await _userManager.AddToRoleAsync(user, UserRoles.Member.ToString());
         }
     }
 }

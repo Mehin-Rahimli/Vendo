@@ -49,7 +49,7 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var initializer = scope.ServiceProvider.GetRequiredService<AppDbContextInitializer>();
-    initializer.InitializeDatabase().Wait();
+   // initializer.InitializeDatabase().Wait();
     initializer.CreateRoles().Wait();
     initializer.CreateAdmin().Wait();
 }

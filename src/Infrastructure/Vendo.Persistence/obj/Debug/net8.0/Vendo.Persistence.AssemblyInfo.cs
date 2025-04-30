@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendo.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff12920a2502d4e971dce2790ee7eb97ac9a7e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c93a287f02a22f5d74cadd1b687d2d5dd631ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendo.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendo.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
