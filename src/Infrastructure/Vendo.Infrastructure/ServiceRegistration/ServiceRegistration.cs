@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vendo.Application.Abstractions.Services;
+using Vendo.Infrastructure.OptionClasses;
 
 namespace Vendo.Infrastructure.ServiceRegistration
 {
@@ -15,6 +16,7 @@ namespace Vendo.Infrastructure.ServiceRegistration
     {
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
+            services.Configure<CloudSettings>(configuration.GetSection("CloudSettings"));
             services.AddAuthentication(opt =>
             {
                 opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

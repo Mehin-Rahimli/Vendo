@@ -3,6 +3,7 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Vendo.Application.Abstractions.Repositories;
 using Vendo.Application.Abstractions.Services;
+using Vendo.Application.DTOs.Files;
 using Vendo.Application.DTOs.Products;
 using Vendo.Domain.Entities;
 using Vendo.Persistence.Implementations.Repostories;
@@ -15,13 +16,19 @@ namespace Vendo.Persistence.Implementations.Services
         private readonly IMapper _mapper;
         private readonly ICategoryRepository _categoryRepository;
         private readonly IBrandRepository _brandRepository;
+        private readonly IFileService _fileService;
 
-        public ProductService(IProductRepository productrepo, IMapper mapper, ICategoryRepository categoryRepository,IBrandRepository brandRepository)
+        public ProductService(IProductRepository productrepo, IMapper mapper, 
+            ICategoryRepository categoryRepository,
+            IBrandRepository brandRepository, 
+            IFileService fileService)
         {
             _productRepository = productrepo;
             _mapper = mapper;
             _categoryRepository = categoryRepository;
             _brandRepository = brandRepository;
+            _fileService = fileService;
+            _fileService = fileService;
         }
 
         public async Task<IEnumerable<ProductItemDto>> GetAll(int page, int take)
@@ -43,7 +50,7 @@ namespace Vendo.Persistence.Implementations.Services
         public async Task CreateAsync(CreateProductDto  productDto)
         {
             var product = _mapper.Map<Product>(productDto);
-            if (product.Price >= 0 && product.Discount >= 0 && product.Discount <= 100)
+            if (product.Price >= 0 && product.Discount >= 0 && product.Discount <= 100&& product.Price>=product.DiscountPrice)
             {
                 product.DiscountPrice = product.Price - (product.Price * (product.Discount / 100));
             }
@@ -65,14 +72,26 @@ namespace Vendo.Persistence.Implementations.Services
             var sizeEntities = await _productRepository.GetManyToManyEntities<Size>(productDto.SizeIds);
             if (sizeEntities.Count() != productDto.SizeIds.Distinct().Count())
                 throw new Exception("Size id is wrong");
+            FileDto main=await _fileService.AddImageAsync(productDto.mainPhoto);
+            product.ProductImages = new List<ProductImage>
+            {
+                new ProductImage
+                {
+                    IsDeleted=false,    
+                    ImageUrl=main.Url,
 
-            await _productRepository.AddAsync(_mapper.Map<Product>(productDto));
+                    PublicId=main.PublicId,
+                    IsPrimary=true
+                }
+
+            };
+            await _productRepository.AddAsync(product);
             await _productRepository.SaveChangesAsync();
         }
         public async Task UpdateAsync(int id, UpdateProductDto productDto)
         {
          
-            Product product = await _productRepository.GetByIdAsync(id, "ProductColors", "ProductSizes");
+            Product product = await _productRepository.GetByIdAsync(id, "ProductColors", "ProductSizes","ProductImages");
            
             if (product.Price >= 0 && product.Discount >= 0 && product.Discount <= 100)
             {
@@ -106,7 +125,21 @@ namespace Vendo.Persistence.Implementations.Services
             if (sizeEntities.Count() != createItems2.Distinct().Count())
                 throw new Exception("One or more size id is wrong");
 
+            if (productDto.MainPhoto != null)
+            { FileDto main=await _fileService.AddImageAsync(productDto.MainPhoto);
+            
+                var existedMain =product.ProductImages.FirstOrDefault(pi => pi.IsPrimary==true);
+                await _fileService.DeleteImageAsync(existedMain.PublicId);
+                product.ProductImages.Remove(existedMain);
 
+                product.ProductImages.Add(new ProductImage
+                {
+                    IsDeleted = false,
+                    ImageUrl = main.Url,
+                    PublicId = main.PublicId,
+                    IsPrimary = true
+                });
+            }
 
             _productRepository.Update(_mapper.Map(productDto, product));
             await _productRepository.SaveChangesAsync();

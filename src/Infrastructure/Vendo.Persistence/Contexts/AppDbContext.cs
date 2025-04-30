@@ -21,7 +21,7 @@ namespace Vendo.Persistence.Contexts
         public DbSet<Size> Sizes { get; set; }
         public DbSet<ProductColor> ProductSizes { get; set; }
         public DbSet<Brand> Brands { get; set; }
-     
+       public DbSet<ProductImage> ProductImages { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

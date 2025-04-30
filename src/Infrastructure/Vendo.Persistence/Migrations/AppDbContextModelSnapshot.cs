@@ -337,6 +337,9 @@ namespace Vendo.Persistence.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("AgeGroup")
+                        .HasColumnType("int");
+
                     b.Property<int>("BrandId")
                         .HasColumnType("int");
 
@@ -360,8 +363,8 @@ namespace Vendo.Persistence.Migrations
                     b.Property<decimal>("DiscountPrice")
                         .HasColumnType("decimal(6,2)");
 
-                    b.Property<bool>("Gender")
-                        .HasColumnType("bit");
+                    b.Property<int>("Gender")
+                        .HasColumnType("int");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
@@ -399,6 +402,52 @@ namespace Vendo.Persistence.Migrations
                     b.HasIndex("ColorId");
 
                     b.ToTable("ProductColor");
+                });
+
+            modelBuilder.Entity("Vendo.Domain.Entities.ProductImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsPrimary")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("ModifiedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PublicId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("Vendo.Domain.Entities.ProductSize", b =>
@@ -535,6 +584,17 @@ namespace Vendo.Persistence.Migrations
                     b.Navigation("Product");
                 });
 
+            modelBuilder.Entity("Vendo.Domain.Entities.ProductImage", b =>
+                {
+                    b.HasOne("Vendo.Domain.Entities.Product", "Product")
+                        .WithMany("ProductImages")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("Vendo.Domain.Entities.ProductSize", b =>
                 {
                     b.HasOne("Vendo.Domain.Entities.Product", "Product")
@@ -572,6 +632,8 @@ namespace Vendo.Persistence.Migrations
             modelBuilder.Entity("Vendo.Domain.Entities.Product", b =>
                 {
                     b.Navigation("ProductColors");
+
+                    b.Navigation("ProductImages");
 
                     b.Navigation("ProductSizes");
                 });

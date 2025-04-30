@@ -1,5 +1,7 @@
 ﻿
 
+using Microsoft.AspNetCore.Http;
+
 namespace Vendo.Application.DTOs.Products
 {
     public record UpdateProductDto(
@@ -11,6 +13,7 @@ namespace Vendo.Application.DTOs.Products
         int CategoryId,
         int BrandId,
         ICollection<int> ColorIds,
-        ICollection<int> SizeIds
+        ICollection<int> SizeIds,
+        IFormFile ? MainPhoto
         );
 }

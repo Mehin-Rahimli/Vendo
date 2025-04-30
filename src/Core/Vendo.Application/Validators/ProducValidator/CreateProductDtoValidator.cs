@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using FluentValidation;
 using Vendo.Application.DTOs.Products;
 
@@ -21,7 +17,8 @@ namespace Vendo.Application.FluentValidator.ProducValidator
             .MaximumLength(NAME_MAX_LENGTH)
                 .WithMessage("Name must contains max 100 symbols");
 
-           
+            RuleFor(p => p.mainPhoto).Must(mp => mp.ContentType.Contains("/image") && mp.Length > 1024 * 2)
+                .WithMessage("Size or Type is incorrect");
 
             RuleFor(p => p.Price).NotEmpty()
                     .WithMessage("Price Required")

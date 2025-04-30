@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Vendo.Domain.Enums;
 
 namespace Vendo.Application.DTOs.Products
 {
@@ -11,7 +12,8 @@ namespace Vendo.Application.DTOs.Products
         string Name,
         decimal Price,
         string Description,
-        bool Gender,
+        Gender Gender,
+        AgeGroup AgeGroup,
         CategoryItemDto Category,
         BrandItemDto Brand,
         decimal DiscountPrice,

@@ -325,7 +325,12 @@
       },
       {
         "Name": "Gender",
-        "Type": "System.Boolean",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AgeGroup",
+        "Type": "System.String",
         "IsRequired": false
       },
       {
@@ -346,6 +351,11 @@
       {
         "Name": "BrandId",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "mainPhoto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
       }
     ],

@@ -601,7 +601,10 @@
                     "type": "string"
                   },
                   "Gender": {
-                    "type": "boolean"
+                    "$ref": "#/components/schemas/Gender"
+                  },
+                  "AgeGroup": {
+                    "$ref": "#/components/schemas/AgeGroup"
                   },
                   "ColorIds": {
                     "type": "array",
@@ -624,6 +627,10 @@
                   "BrandId": {
                     "type": "integer",
                     "format": "int32"
+                  },
+                  "mainPhoto": {
+                    "type": "string",
+                    "format": "binary"
                   }
                 }
               },
@@ -646,6 +653,9 @@
                 "Gender": {
                   "style": "form"
                 },
+                "AgeGroup": {
+                  "style": "form"
+                },
                 "ColorIds": {
                   "style": "form"
                 },
@@ -656,6 +666,9 @@
                   "style": "form"
                 },
                 "BrandId": {
+                  "style": "form"
+                },
+                "mainPhoto": {
                   "style": "form"
                 }
               }
@@ -879,6 +892,23 @@
   },
   "components": {
     "schemas": {
+      "AgeGroup": {
+        "enum": [
+          "Child",
+          "Teen",
+          "Adult",
+          "Senior"
+        ],
+        "type": "string"
+      },
+      "Gender": {
+        "enum": [
+          "Male",
+          "Female",
+          "Unisex"
+        ],
+        "type": "string"
+      },
       "UpdateProductDto": {
         "type": "object",
         "properties": {
@@ -923,6 +953,11 @@
               "type": "integer",
               "format": "int32"
             },
+            "nullable": true
+          },
+          "mainPhoto": {
+            "type": "string",
+            "format": "binary",
             "nullable": true
           }
         },

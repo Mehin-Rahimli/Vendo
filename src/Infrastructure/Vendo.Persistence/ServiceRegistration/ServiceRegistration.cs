@@ -21,6 +21,7 @@ namespace Vendo.Persistence.ServiceRegistration
             services
                 .AddDbContext<AppDbContext>(opt =>
                 opt.UseSqlServer(configuration.GetConnectionString("Default")));
+           
             services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
                 opt.Password.RequiredLength = 8;
@@ -48,7 +49,7 @@ namespace Vendo.Persistence.ServiceRegistration
             services.AddScoped<IBrandService, BrandService>();
             services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<IProductService, ProductService>();
-
+            services.AddScoped<IFileService, FileService>();
             services.AddScoped<AppDbContextInitializer>();
             return services;
         }

@@ -38,3 +38,5 @@ C:\Users\User\OneDrive\Desktop\Documents\API\Vendo\src\Infrastructure\Vendo.Pers
 C:\Users\User\OneDrive\Desktop\Documents\API\Vendo\src\Infrastructure\Vendo.Persistence\obj\Debug\net8.0\Vendo.Persistence.pdb
 C:\Users\User\OneDrive\Desktop\Documents\API\Vendo\src\Infrastructure\Vendo.Persistence\obj\Debug\net8.0\Vendo.Persistence.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\Documents\API\Vendo\src\Infrastructure\Vendo.Persistence\obj\Debug\net8.0\ref\Vendo.Persistence.dll
+C:\Users\Kubra\source\repos\Vendo\src\Infrastructure\Vendo.Persistence\bin\Debug\net8.0\Vendo.Infrastructure.dll
+C:\Users\Kubra\source\repos\Vendo\src\Infrastructure\Vendo.Persistence\bin\Debug\net8.0\Vendo.Infrastructure.pdb

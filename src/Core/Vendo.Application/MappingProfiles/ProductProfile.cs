@@ -20,7 +20,7 @@ namespace Vendo.Application.MappingProfiles
                opt => opt.MapFrom(
                    p => p.ProductSizes.Select(ps => new SizeItemDto(ps.SizeId, ps.Size.Name)).ToList())
                );
-
+      
             CreateMap<CreateProductDto, Product>()
                .ForMember(p => p.ProductColors,
                opt => opt.MapFrom(pDto => pDto.ColorIds.Select(ci => new ProductColor { ColorId = ci }))
@@ -38,6 +38,10 @@ namespace Vendo.Application.MappingProfiles
                 p => p.ProductColors,
                 opt => opt.MapFrom(pDto => pDto.ColorIds.Select(ci => new ProductColor { ColorId = ci }))
 
+                )
+                .ForMember(
+                p=>p.ProductImages,
+                opt=>opt.Ignore()
                 )
                 .ForMember(
                 p => p.ProductSizes,

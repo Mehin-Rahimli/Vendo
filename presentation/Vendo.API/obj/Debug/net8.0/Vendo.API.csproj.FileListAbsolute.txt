@@ -330,3 +330,5 @@ C:\Users\Kubra\source\repos\Vendo\presentation\Vendo.API\bin\Debug\net8.0\Micros
 C:\Users\Kubra\source\repos\Vendo\presentation\Vendo.API\bin\Debug\net8.0\Vendo.Infrastructure.dll
 C:\Users\Kubra\source\repos\Vendo\presentation\Vendo.API\bin\Debug\net8.0\Vendo.Infrastructure.pdb
 C:\Users\User\OneDrive\Desktop\Documents\API\Vendo\presentation\Vendo.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kubra\source\repos\Vendo\presentation\Vendo.API\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\Kubra\source\repos\Vendo\presentation\Vendo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
